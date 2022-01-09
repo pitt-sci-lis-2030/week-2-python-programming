@@ -10,5 +10,5 @@ This repository contains the course materials for week two of LIS 2030. Welcome!
 4. Changing Data Types
 5. Comments
 6. Dealing with Errors
-7. Computational thinking 
+7. Computational Thinking 
 8. Putting it all together
