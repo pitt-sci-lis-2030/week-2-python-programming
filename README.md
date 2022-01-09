@@ -1,6 +1,6 @@
 # LIS 2030 Week 2 - Python Programming
 
-This repository contains the course materials for week two of LIS 2030.
+This repository contains the course materials for week two of LIS 2030. Welcome!
 
 ## Lecture Topics
 
