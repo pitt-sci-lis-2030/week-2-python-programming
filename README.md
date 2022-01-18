@@ -4,11 +4,9 @@ This repository contains the course materials for week two of LIS 2030. Welcome!
 
 ## Lecture Topics
 
-1. Values and Data Types
-2. Variables
-3. Operators
-4. Changing Data Types
-5. Comments
-6. Dealing with Errors
-7. Computational Thinking 
-8. Putting it all together
+Topics
+1. Python Syntax
+2. Values Data Types, & Variables
+3. Operators, Comments, and Errors
+4. Computational Thinking: Statements & Expressions
+5. Putting it All Together
